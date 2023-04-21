@@ -1,2 +1,2 @@
-# Smalltalk_tp1
+# Smalltalk
 Tp1
